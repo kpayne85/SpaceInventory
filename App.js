@@ -22,9 +22,3 @@ function App() {
 }
 
 ReactDOM.render(<App />, document.getElementById("root"));
-//const container = document.getElementById("root");
-//const root = createRoot(container);
-//root.render(<App />);
-/* {inventoryItems.map(({ name, type, quantity, price }) => {
-				<InventoryItem name={name} type={type} quantity={quantity} price={price} />
-			})}*/
